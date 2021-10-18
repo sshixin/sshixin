@@ -1,22 +1,13 @@
-### Hi there 👋
-Ask me about ..
+### 测试
+关于
 <!--
-**sshixin/sshixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sshixin/sshixin** 石小石
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sushantrahate/docsify-darkly-theme/css/darkly.css">
 
 <!-- Compressed -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sushantrahate/docsify-darkly-theme/css/darkly.min.css">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 石小石
 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sushantrahate/docsify-darkly-theme/css/darkly.css">
 
